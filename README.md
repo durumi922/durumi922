@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/1-117c0f7285f380ef9c10da649107797a](https://www.notion.so/1-117c0f7285f380ef9c10da649107797a)
 
-- 📝 I regularly write articles on [durumi922.github.io](durumi922.github.io)
+- 📝 I regularly write articles on [(https://durumi922.github.io/)]
 
 - 💬 Ask me about **css**
 
