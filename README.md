@@ -9,11 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/1-117c0f7285f380ef9c10da649107797a](https://www.notion.so/1-117c0f7285f380ef9c10da649107797a)
-
-- 📝 I regularly write articles on [(https://durumi922.github.io/)]
-
-- 💬 Ask me about **css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
