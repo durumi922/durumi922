@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Joongbu univ (Goyang Campus)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
 
 <h3 align="left">Connect with me:</h3>
